@@ -1,0 +1,14 @@
+G:\My Drive\Programs\Farming\Farming\obj\Debug\Farming.csprojResolveAssemblyReference.cache
+G:\My Drive\Programs\Farming\Farming\obj\Debug\Farming.csproj.CoreCompileInputs.cache
+G:\My Drive\Programs\Farming\Farming\bin\Debug\Farming.exe.config
+G:\My Drive\Programs\Farming\Farming\bin\Debug\Farming.exe
+G:\My Drive\Programs\Farming\Farming\bin\Debug\Farming.pdb
+G:\My Drive\Programs\Farming\Farming\obj\Debug\Farming.exe
+G:\My Drive\Programs\Farming\Farming\obj\Debug\Farming.pdb
+C:\Users\Nathan and Matthew\Google Drive\Programs\Farming\Farming\bin\Debug\Farming.exe.config
+C:\Users\Nathan and Matthew\Google Drive\Programs\Farming\Farming\bin\Debug\Farming.exe
+C:\Users\Nathan and Matthew\Google Drive\Programs\Farming\Farming\bin\Debug\Farming.pdb
+C:\Users\Nathan and Matthew\Google Drive\Programs\Farming\Farming\obj\Debug\Farming.csprojAssemblyReference.cache
+C:\Users\Nathan and Matthew\Google Drive\Programs\Farming\Farming\obj\Debug\Farming.csproj.CoreCompileInputs.cache
+C:\Users\Nathan and Matthew\Google Drive\Programs\Farming\Farming\obj\Debug\Farming.exe
+C:\Users\Nathan and Matthew\Google Drive\Programs\Farming\Farming\obj\Debug\Farming.pdb

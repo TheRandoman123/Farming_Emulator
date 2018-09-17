@@ -856,6 +856,7 @@ namespace Farming
                         {
                             Levelup();
                         }
+                        Farm();
                         break;
                     case "back":
                         Farm();
@@ -941,7 +942,5 @@ namespace Farming
             return;
         }
         #endregion
-
-
     }
 }
